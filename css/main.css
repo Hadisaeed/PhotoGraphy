@@ -178,3 +178,28 @@ p{
     100%{ margin-left: -300%;}
 
 }
+#feedback_header{
+    background: rgba(	184, 91, 11,0.5);
+    text-align : center;
+    color: #000;
+    font: 14px/45px "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+#feedback {
+    float: left;
+    width: 40%;
+    height: 450px;
+
+    background-color: white;
+
+}
+#fb_banner{
+    background-color: white;
+float: right;
+    width: 60%;
+    height: 450px;
+
+}
+#fedback_Form{
+    height: 500px;
+
+}
